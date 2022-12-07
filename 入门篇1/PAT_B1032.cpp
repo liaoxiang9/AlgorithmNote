@@ -6,11 +6,6 @@ int main(){
     int N=0;
     scanf("%d", &N);
     int school[maxn]={0};
-    // for (int i = 0; i < N+5; i++)
-    // {
-    //     school[i] = 0;
-    // }
-    
     int num=0, score=0;
     for (int i = 0; i < N; i++)
     {
