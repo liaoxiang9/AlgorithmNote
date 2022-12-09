@@ -3,3 +3,5 @@ bin/codeup_1934
 .vscode/settings.json
 入门篇1/a.out
 .gitignore
+bin/selectSort
+bin/
