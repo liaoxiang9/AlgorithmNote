@@ -33,7 +33,6 @@ int main()
 {
     int date1 = 0;
     int date2 = 0;
-    // 输入两个日期
 
     scanf("%d", &date1);
     scanf("%d", &date2);
