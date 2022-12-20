@@ -33,7 +33,7 @@ int main(){
     bool flag = true;
     while(flag){
         mid = low + (high - low) / 2;
-        if(mid<0 || mid>=n || low > high){
+        if(low > high){
             printf("%s\n", "not found");
             break;
         }else{
