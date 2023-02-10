@@ -9,6 +9,7 @@ int hashFunc(char S[], int len){
     }
     return id;
 }
+
 int hashTable[26*26*26+10];
 const int maxn = 100;
 char S[maxn][5];
