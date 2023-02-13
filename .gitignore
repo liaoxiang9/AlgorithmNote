@@ -6,3 +6,6 @@ bin/codeup_1934
 bin/selectSort
 bin/
 .vscode/
+.editorconfig
+入门篇2/序列合并问题
+.gitignore
